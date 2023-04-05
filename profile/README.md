@@ -1,6 +1,6 @@
 # Tidier
 
-<img src="https://github.com/TidierOrg/.github/raw/main/profile/Tidier_jl_logo.png" align="right" style="padding-left:10px;" width="150"/>
+<img src="https://raw.githubusercontent.com/TidierOrg/.github/main/profile/TidierOrg_logo.png" align="right" style="padding-left:10px;" width="150"/>
 
 ## Welcome to Tidier
 
