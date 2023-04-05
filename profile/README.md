@@ -1,6 +1,6 @@
 # Tidier
 
-<img src="Tidier_jl_logo.png" align="right" style="padding-left:10px;" width="150"/>
+<img src="/profile/Tidier_jl_logo.png" align="right" style="padding-left:10px;" width="150"/>
 
 ## Welcome to Tidier
 
