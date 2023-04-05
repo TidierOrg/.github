@@ -18,4 +18,4 @@ Our roadmap for future packages includes:
 - `TidierData.jl`: A package dedicated to data transformation, powered by [`DataFrames.jl`](https://github.com/JuliaData/DataFrames.jl),
 [`ShiftedArrays.jl`](https://github.com/JuliaArrays/ShiftedArrays.jl), and [`Cleaner.jl`](https://github.com/TheRoniOne/Cleaner.jl).
 - `TidierPlots.jl`: A package dedicated to plotting, powered by [`AlgebraOfGraphics.jl`](https://github.com/MakieOrg/AlgebraOfGraphics.jl).
-- `TidierTools.jl`: A package aiming to make it easier to create Tidier-style macros that use R-style non-standard evaluation, auto-vectorization, and bang-bang (`!!`) interpolation
+- `TidierTools.jl`: A package aiming to make it easier to create Tidier-style macros that use R-style non-standard evaluation, auto-vectorization, and bang-bang (`!!`) interpolation.
