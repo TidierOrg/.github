@@ -7,10 +7,7 @@
 Tidier is an organization dedicated to creating tools that make Julia a more
 welcoming place for R users familiar with the tidyverse ecosystem. Our flagship
 package is [`Tidier.jl`](https://github.com/TidierOrg/Tidier.jl), a 100% Julia
-implementation of the R tidyverse mini-language in Julia. In the future, we plan
-to convert [`Tidier.jl`](https://github.com/TidierOrg/Tidier.jl) into a meta-package
-with smaller base packages that make [`Tidier.jl`](https://github.com/TidierOrg/Tidier.jl)
-easier for other package developers to use and build on.
+implementation of the R tidyverse meta-package.
 
 <a href="https://tidierorg.github.io/Tidier.jl/dev/"><img src="https://raw.githubusercontent.com/TidierOrg/Tidier.jl/main/docs/src/assets/Tidier_jl_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
