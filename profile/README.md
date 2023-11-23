@@ -77,6 +77,8 @@ TidierVest.jl is a package dedicated to scraping and tidying website data. It fo
 
 [[GitHub]](https://github.com/TidierOrg/TidierVest.jl)
 
+<br><br>
+
 <a href="https://github.com/TidierOrg/TidierText.jl"><img src="https://raw.githubusercontent.com/TidierOrg/Tidier.jl/main/docs/src/assets/Tidier_jl_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://github.com/TidierOrg/TidierText.jl">TidierText.jl</a>
@@ -84,6 +86,8 @@ TidierVest.jl is a package dedicated to scraping and tidying website data. It fo
 TidierText.jl is a package dedicated to handling and tidying text data. It focuses on functionality within the tidytext R package.
 
 [[GitHub]](https://github.com/TidierOrg/TidierText.jl)
+
+<br><br>
 
 Our roadmap for future packages includes:
 
