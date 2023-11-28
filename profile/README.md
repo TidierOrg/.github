@@ -69,16 +69,6 @@ TidierStrings.jl is a package dedicated to handling strings. It focuses on funct
 
 <br><br>
 
-<a href="https://github.com/TidierOrg/TidierVest.jl"><img src="https://raw.githubusercontent.com/TidierOrg/TidierVest.jl/main/docs/src/assets/TidierVest_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
-
-## <a href="https://github.com/TidierOrg/TidierVest.jl">TidierVest.jl</a>
-
-TidierVest.jl is a package dedicated to scraping and tidying website data. It focuses on functionality within the rvest R package.
-
-[[GitHub]](https://github.com/TidierOrg/TidierVest.jl)
-
-<br><br>
-
 <a href="https://github.com/TidierOrg/TidierText.jl"><img src="https://raw.githubusercontent.com/TidierOrg/TidierText.jl/main/docs/src/assets/TidierText_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://github.com/TidierOrg/TidierText.jl">TidierText.jl</a>
@@ -86,6 +76,16 @@ TidierVest.jl is a package dedicated to scraping and tidying website data. It fo
 TidierText.jl is a package dedicated to handling and tidying text data. It focuses on functionality within the tidytext R package.
 
 [[GitHub]](https://github.com/TidierOrg/TidierText.jl)
+
+<br><br>
+
+<a href="https://github.com/TidierOrg/TidierVest.jl"><img src="https://raw.githubusercontent.com/TidierOrg/TidierVest.jl/main/docs/src/assets/TidierVest_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
+
+## <a href="https://github.com/TidierOrg/TidierVest.jl">TidierVest.jl</a>
+
+TidierVest.jl is a package dedicated to scraping and tidying website data. It focuses on functionality within the rvest R package.
+
+[[GitHub]](https://github.com/TidierOrg/TidierVest.jl)
 
 <br><br>
 
