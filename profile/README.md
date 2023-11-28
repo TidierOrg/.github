@@ -79,7 +79,7 @@ TidierVest.jl is a package dedicated to scraping and tidying website data. It fo
 
 <br><br>
 
-<a href="https://github.com/TidierOrg/TidierText.jl"><img src="https://raw.githubusercontent.com/TidierOrg/Tidier.jl/main/docs/src/assets/Tidier_jl_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
+<a href="https://github.com/TidierOrg/TidierText.jl"><img src="https://raw.githubusercontent.com/TidierOrg/TidierText.jl/main/docs/src/assets/TidierText_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://github.com/TidierOrg/TidierText.jl">TidierText.jl</a>
 
