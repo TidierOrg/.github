@@ -55,7 +55,7 @@ TidierCats.jl is a package dedicated to handling categorical variables, powered 
 
 TidierDates.jl is a package dedicated to handling dates and times. It focuses on functionality within the lubridate R package.
 
-[[GitHub]](https://github.com/TidierOrg/TidierCats.jl)
+[[GitHub]](https://github.com/TidierOrg/TidierDates.jl)
 
 <br><br>
 
