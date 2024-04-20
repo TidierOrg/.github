@@ -4,10 +4,7 @@
 
 ## Welcome to Tidier
 
-Tidier is an organization dedicated to creating tools that make Julia a more
-welcoming place for R users familiar with the tidyverse ecosystem. Our flagship
-package is [`Tidier.jl`](https://github.com/TidierOrg/Tidier.jl), a 100% Julia
-implementation of the R tidyverse meta-package.
+Tidier is an organization dedicated to crafting a data analysis and visualization ecosystem in Julia inspired by the tidyverse in R. Our flagship package is [Tidier.jl](https://github.com/TidierOrg/Tidier.jl), a 100% Julia implementation of the R tidyverse meta-package. Tidier.jl wraps best-in-class Julia data analysis packages like DataFrames.jl and Makie.jl to bring the best of both worlds: convenient syntax and blazing fast speed.
 
 <a href="https://github.com/TidierOrg/Tidier.jl"><img src="https://raw.githubusercontent.com/TidierOrg/Tidier.jl/main/docs/src/assets/Tidier_jl_logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
