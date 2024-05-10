@@ -36,7 +36,7 @@ TidierPlots.jl is a package dedicated to plotting, powered by Makie.jl. It focus
 
 <br><br>
 
-<a href="https://tidierorg.github.io/TidierDB.jl/latest/"><img src="https://github.com/TidierOrg/TidierDB.jl/raw/main/assets/logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
+<a href="https://tidierorg.github.io/TidierDB.jl/latest/"><img src="https://github.com/TidierOrg/TidierDB.jl/raw/main/docs/src/assets/logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://tidierorg.github.io/TidierDB.jl/latest/">TidierDB.jl</a>
 
@@ -46,7 +46,7 @@ TidierDB.jl is a package dedicated to data transformation on databases using syn
 
 <br><br>
 
-<a href="https://tidierorg.github.io/TidierFiles.jl/latest/"><img src="https://github.com/TidierOrg/TidierFiles.jl/raw/main/assets/logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
+<a href="https://tidierorg.github.io/TidierFiles.jl/latest/"><img src="https://github.com/TidierOrg/TidierFiles.jl/raw/main/docs/src/assets/logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://tidierorg.github.io/TidierFiles.jl/latest/">TidierFiles.jl</a>
 
@@ -72,7 +72,7 @@ TidierCats.jl is a package dedicated to handling categorical variables, powered 
 
 TidierDates.jl is a package dedicated to handling dates and times. It focuses on functionality within the lubridate R package.
 
-[[GitHub]](https://github.com/TidierOrg/TidierDates.jl)
+[[GitHub]](https://github.com/TidierOrg/TidierDates.jl) | [[Documentation]](https://tidierorg.github.io/TidierDates.jl/dev/)
 
 <br><br>
 
