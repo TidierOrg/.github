@@ -106,6 +106,16 @@ TidierVest.jl is a package dedicated to scraping and tidying website data. It fo
 
 <br><br>
 
+<a href="https://github.com/TidierOrg/TidierIteration.jl"><img src="https://raw.githubusercontent.com/TidierOrg/TidierIteration.jl/main/docs/assets/logo.png" align="left" style="padding-right:10px;" width="150"></img></a>
+
+## <a href="https://github.com/TidierOrg/TidierIteration.jl">TidierIteration.jl</a>
+
+TidierIteration.jl is a package focused on iterating over Julia collections. It focuses on functionality within the purrr R package.
+
+[[GitHub]](https://github.com/TidierOrg/TidierIteration.jl)
+
+<br><br>
+
 Our roadmap for future packages includes:
 
 - TidierTools.jl: A package aiming to make it easier to create Tidier-style macros that use R-style non-standard evaluation, auto-vectorization, and bang-bang (`!!`) interpolation.
