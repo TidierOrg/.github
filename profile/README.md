@@ -120,7 +120,7 @@ TidierIteration.jl is a package focused on iterating over Julia collections. It 
 
 ## <a href="https://github.com/TidierOrg/positron-julia">Julia for Positron</a>
 
-Positron for Julia adds julia support to Posit's data science IDE. 
+Julia for Positron adds julia support to Posit's data science IDE. 
 
 [[GitHub]](https://github.com/TidierOrg/positron-julia)
 
