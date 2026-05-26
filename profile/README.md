@@ -116,6 +116,14 @@ TidierIteration.jl is a package focused on iterating over Julia collections. It 
 
 <br><br>
 
+<img width="2521" height="2911" alt="logo-positron" src="https://github.com/user-attachments/assets/06a401b9-ddee-4c4a-b306-b6d753cb97af" />
+
+## <a href="https://github.com/TidierOrg/positron-julia">Julia for Positron</a>
+
+Positron for Julia adds julia support to Posit's data science IDE. 
+
+[[GitHub]](https://github.com/TidierOrg/positron-julia)
+
 Our roadmap for future packages includes:
 
 - TidierTools.jl: A package aiming to make it easier to create Tidier-style macros that use R-style non-standard evaluation, auto-vectorization, and bang-bang (`!!`) interpolation.
