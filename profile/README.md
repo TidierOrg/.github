@@ -124,6 +124,8 @@ Positron for Julia adds julia support to Posit's data science IDE.
 
 [[GitHub]](https://github.com/TidierOrg/positron-julia)
 
+<br><br>
+
 Our roadmap for future packages includes:
 
 - TidierTools.jl: A package aiming to make it easier to create Tidier-style macros that use R-style non-standard evaluation, auto-vectorization, and bang-bang (`!!`) interpolation.
