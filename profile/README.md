@@ -116,7 +116,7 @@ TidierIteration.jl is a package focused on iterating over Julia collections. It 
 
 <br><br>
 
-<img width="2521" height="2911" alt="logo-positron" src="https://github.com/user-attachments/assets/06a401b9-ddee-4c4a-b306-b6d753cb97af" />
+<a href="https://github.com/TidierOrg/positron-julia"><img src="https://github.com/user-attachments/assets/06a401b9-ddee-4c4a-b306-b6d753cb97af" align="left" style="padding-right:10px;" width="150"></img></a>
 
 ## <a href="https://github.com/TidierOrg/positron-julia">Julia for Positron</a>
 
