@@ -1,5 +1,3 @@
-<img width="1075" height="1254" alt="julia-positron" src="https://github.com/user-attachments/assets/7b1bbe25-58cc-47ca-a61f-4f5701bf32f4" />
-<img width="1075" height="1254" alt="julia-positron" src="https://github.com/user-attachments/assets/22eb4e09-0aa5-4f9a-b9fb-530231711381" />
 # Tidier
 
 <img src="https://raw.githubusercontent.com/TidierOrg/.github/main/profile/TidierOrg_logo.png" align="right" style="padding-left:10px;" width="150"/>
